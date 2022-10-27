@@ -6,3 +6,4 @@ public/
 *.sh
 .DS_Store
 .hugo_build.lock
+website.code-workspace
