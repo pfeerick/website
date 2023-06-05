@@ -10,7 +10,7 @@ summaryLength = 70
 buildFuture = true
 
 copyright = "&copy;{year} Peter Feerick, All Rights Reserved"
-timeout = 10000
+timeout = 15000
 enableEmoji = true
 paginate = 13
 rssLimit = 100
