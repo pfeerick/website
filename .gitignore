@@ -1,9 +1,27 @@
 # ignore all logs
-.vscode/
-public/
 *.log
+
+# local convenience files
 .env
 *.sh
-.DS_Store
-.hugo_build.lock
 website.code-workspace
+
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# node.js
+node_modules/
+
+# hugo site files
+public/
+resources/
+
+# hugo build lock
+.hugo_build.lock
+
